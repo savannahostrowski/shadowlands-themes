@@ -1,2 +1,6 @@
 node_modules
 *.vsix
+kyrian-theme.json
+necrolord-theme.json
+venthyr-theme.json
+.git

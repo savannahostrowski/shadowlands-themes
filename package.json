@@ -15,21 +15,6 @@
                 "label": "Night Fae Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/night-fae-theme.json"
-            },
-            {
-                "label": "Necrolord Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/necrolord-theme.json"
-            },
-            {
-                "label": "Venthyr Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/necrolord-theme.json"
-            },
-            {
-                "label": "Kyrian Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/kyrian-theme.json"
             }
         ]
     }
