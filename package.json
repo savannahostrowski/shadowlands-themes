@@ -13,9 +13,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Night Fae",
+                "label": "Shadowlands Covenant - Night Fae",
                 "uiTheme": "vs-dark",
                 "path": "./themes/night-fae-theme.json"
+            },
+            {
+                "label": "Shadowlands Covenant - Necrolord",
+                "uiTheme": "vs-dark",
+                "path": "./themes/necrolord-theme.json"
             }
         ]
     },
