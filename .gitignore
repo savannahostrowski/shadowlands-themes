@@ -1,4 +1,4 @@
-node_modules
+git snode_modules
 *.vsix
 kyrian-theme.json
 necrolord-theme.json
