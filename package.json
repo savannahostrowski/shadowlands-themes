@@ -2,7 +2,7 @@
     "name": "shadowlands-themes",
     "displayName": "Shadowlands Covenant Themes",
     "description": "Inspired by the covenants of Shadowlands",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "savannahostrowski",
     "engines": {
         "vscode": "^1.53.0"
@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "preview": true,
     "contributes": {
         "themes": [
             {
